@@ -1,0 +1,92 @@
+/* .HQ{
+    border:1px;
+} */
+
+
+
+
+
+.FBK{
+    color: rgb(5, 101, 225);
+    
+}
+.FBKH{
+    font-size: 25px;
+    border:100px;
+    
+}
+.EMAIL{
+    padding: 9px;
+    font-size: 20px;
+    margin: 10px;
+    width: 345px;
+    height: 29px;
+    border-bottom-left-radius:7px;
+    border-top-left-radius:7px;
+    border-top-right-radius:7px;
+    border-bottom-right-radius:7px;
+}
+.WORD{
+    padding: 13px;
+    font-size: 20px;
+    width: 338px;
+    border-top-right-radius:7px;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius:7px;
+    border-bottom-right-radius: 7px;
+    
+}
+.LOG{
+    font-size: 25px;
+     padding: 3px;
+     margin: 17px; 
+     width: 370px;
+     background-color: rgb(23, 120, 242);
+     border-bottom-left-radius:7px;
+     border-bottom-right-radius:7px;
+     border-top-left-radius:7px;
+     border-top-right-radius:7px;
+     height: 48.5px;
+     
+}
+body{
+    background-color: rgb(255, 244, 244);
+}
+
+a:link {
+    color: rgb(23, 120, 242);
+    background-color: none;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(23, 120, 242);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  .CNA{
+    width:200px;
+    height:44px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius:7px ;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    background-color:#59da27;
+  }
+  .FPWORD{
+    
+  }
+p .a{
+    font-weight: bold;
+    font-size: 17px;
+    color: black;
+}
+.text{
+    font-size: 15px;
+    font-weight: 100;
+}
+
+
+
+
+
+
